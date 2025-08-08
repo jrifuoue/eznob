@@ -1,5 +1,6 @@
 # 🔧 eznob
 eznob is an bash script to speed up compiling projects that using nob.c and nob.h libaries!
+NOTE: nob.c is licensed under mit and eznob doesn't change the nob.c code
 ## 🧑‍💻 Usage
 ### 💾 Get the source
 ```
@@ -12,7 +13,7 @@ cd eznob
 makepkg -si
 ```
 #### On other linux distros, run the ```install-for-non-arch-distros.sh``` script.
-(I forgot to make the scrippt executable, You can do it with ```chmod +x install-for-non-arch-distros.sh```)
+
 ### 🔥 Test it
 
 Go to your project directory that contains nob.c, nob.h libaries.
