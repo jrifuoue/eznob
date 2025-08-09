@@ -1,6 +1,9 @@
 # 🔧 eznob
 eznob is an bash script to speed up compiling projects that using nob.c and nob.h libaries!
-NOTE: nob.c is licensed under mit and eznob doesn't change the nob.c code
+
+## ⚠️ NOTE:
+The file nob.c is licensed under the MIT License.  
+eznob is a separate tool that does not modify or redistribute the nob.c source code.
 ## 🧑‍💻 Usage
 ### 💾 Get the source
 ```
